@@ -1,0 +1,81 @@
+breakfast;
+
+ 
+
+If time = 6:00am start preparing_breakfast
+
+ 
+
+fridge have list {eggs, coffee, hotdog, bread)
+
+ 
+
+Choose your preferred breakfast and input it
+
+ 
+
+Cout << "Available food in fridge: eggs, coffee, hotdog, bread";
+
+ 
+
+Cin >> preparing_breakfast
+
+ 
+
+ 
+
+If preparing_breakfast==eggs or hotdog 
+
+ 
+
+Cook it until eggs== cooked egg/hotdog
+
+ 
+
+Print "breakfast: cooked egg/hotdog"
+
+ 
+
+ 
+
+ 
+
+ 
+
+Esle if preparing_breakfast == coffee
+
+ 
+
+Prepared coffee == brewed coffee 
+
+ 
+
+Print "breakfast: brewed coffee"
+
+ 
+
+ 
+
+ 
+
+ 
+
+Else if preparing_breakfast == bread
+
+ 
+
+prepared bread == toasted bread
+
+ 
+
+Print "breakfast: toasted bread"
+
+ 
+
+return 0 means you are done preparing breakfast
+
+ 
+
+ 
+
+ 
